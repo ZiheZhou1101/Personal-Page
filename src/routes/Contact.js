@@ -74,6 +74,9 @@ const Contact = () => {
                     <LinkedIn href='https://www.linkedin.com/in/zihe-zhou-8111b4221'>https://www.linkedin.com/in/zihe-zhou-8111b4221</LinkedIn>
                 </p>
                 <h2>GitHub</h2>
+                <p>
+                    <LinkedIn href="https://github.com/ZiheZhou1101">https://github.com/ZiheZhou1101</LinkedIn>
+                </p>
             </StyledLeft>
             <StyledRight>
                 <StyledForm>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import NavBar from './routes/NavBar';
 import ErrorPage from './routes/ErrorPage';
 import Resume from './routes/Resume';
@@ -7,7 +7,7 @@ import Project from './routes/Project';
 import Contact from './routes/Contact';
 import Home from './routes/Home';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '',
     element: <NavBar />,

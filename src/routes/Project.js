@@ -1,7 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 import styled from 'styled-components';
-import Sudoku from '../img/Nine.jpeg';
 
 const StyledBody = styled.div`
 display:flex;
@@ -91,8 +90,18 @@ const Project = () => {
             <div>
                 <h1>Projects</h1>
                 <ProjectOne>Project1</ProjectOne>
-                <ProjectTwo>Project2</ProjectTwo>
-                <ProjectThree>Project3</ProjectThree>
+                <ProjectTwo>
+                    <a style={{ textDecoration: 'none' }} href='https://zihezhou1101.github.io/The-National-Park-Advisor/'>The National Park Advisor</a>
+                    <p>
+                        Find information about all the national parks in the United States and plan your trip here!
+                    </p>
+                </ProjectTwo>
+                <ProjectThree>
+                    <p>
+                        <a style={{ textDecoration: 'none' }} href='https://zihezhou1101.github.io/Connect-Four/'>Connect Four Game</a>
+                        Would you like to play a game with a computer opponent? The first to connect four balls succeeds.
+                    </p>
+                </ProjectThree>
                 <ProjectFour>Project4</ProjectFour>
                 <ProjectFive>Project5</ProjectFive>
                 <ProjectSix>Project6</ProjectSix>

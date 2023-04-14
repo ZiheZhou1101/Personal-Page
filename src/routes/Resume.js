@@ -178,8 +178,6 @@ const Resume = () => {
                         <h3>Nanjing University of Aeronautics and Astronautics</h3>
                         <h4>Bachelor of Science in Mathematics</h4>
                         <h4>GPA: 3.5 (top 20%)</h4>
-                        <h4>Publication:</h4>
-                        Zihe Zhou, Bo Tian. Research on Community Detection of Online Social Network Members Based on the Sparse Subspace Clustering Approach. Future Internet 2019, 11, 254
                         <h4>Main Courses:</h4>
                         <ul>
                             <li>Data Structure and Algorithm Design</li>

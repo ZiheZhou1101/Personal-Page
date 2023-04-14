@@ -97,8 +97,8 @@ const Project = () => {
                     </p>
                 </ProjectTwo>
                 <ProjectThree>
+                    <a style={{ textDecoration: 'none' }} href='https://zihezhou1101.github.io/Connect-Four/'>Connect Four Game</a>
                     <p>
-                        <a style={{ textDecoration: 'none' }} href='https://zihezhou1101.github.io/Connect-Four/'>Connect Four Game</a>
                         Would you like to play a game with a computer opponent? The first to connect four balls succeeds.
                     </p>
                 </ProjectThree>
